@@ -1,6 +1,6 @@
 # recipes
 
-A new Flutter project.
+A new Flutter project to display recipes
 
 ## Getting Started
 
